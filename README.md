@@ -9,7 +9,7 @@ Retail businesses struggle to forecast sales accurately, leading to overstocking
 
 🚀 Live Demo
 PlatformLink🔴
-Streamlit App[Your Streamlit Link Here]
+Streamlit App [sales-prediction-14.streamlit.app]
 
 📊 Model Performance
 Metric                     Score
